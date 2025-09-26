@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+div {
+    height: 750px; /*Recommended size I saw was 812px but it's literally too big for browser lol*/
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(241, 236, 236); /*Change to anything lol- just setting up rn*/
+    border:2px solid black;
+}
